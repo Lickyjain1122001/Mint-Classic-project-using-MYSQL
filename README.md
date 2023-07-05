@@ -6,8 +6,8 @@ In this Dataset we have all the data of company Mint classis data like its custo
 their employee's, there stocks, their orders details and more but be have to focus on the problem the want us to solve and select the data according to that.
 
 # Database used
-  * MYSQL. 
-I have found some important and useful insight from Mint Classic datasete by writing the optimized SQL quries in MYSQL RDBMS.
+* MYSQL 
+* I have found some important and useful insight from Mint Classic datasete by writing the optimized SQL quries in MYSQL RDBMS.
 I wrote 12 SQL quries using this dataset. for each of the quries you would find the problem statment in the question pdf file
 
 # Reccomendation:
